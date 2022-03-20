@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2015/10/22/17/45/leaf-1001679_960_720.jpg);
+    background-position: center;
+    background-size:cover;
+
+}
+.encabezado {
+    height: 400px;
+    background-image: url(../imagenes_videos/img1.JPG);
+    background-position: center;
+    background-size:cover;
+
+}
+
+.titulo1 {
+    font-size: 450%;
+    -webkit-text-stroke: 2px black;
+}
+
+.parte2 {
+
+    background-image: linear-gradient(#00ffff 0%, #00ffff 25%, #00f9ff 50%, #1eb8f3 75%, #3686a5 100%);
+}    
+
+.ciudad {
+    height: 300px;
+    width: 300px;
+    background-image: url(../imagenes_videos/ciudad.jpg);
+    background-position: center;
+    background-size:cover;
+    font-size: 2em;
+}
+
+
+
+.naturaleza {
+    height: 300px;
+    width: 300px;
+    background-image: url(../imagenes_videos/naturaleza.JPG);
+    background-position: center;
+    background-size:cover;
+    font-size: 2em;
+}
+
+
